@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallXamarinDemoApp", "SmallXamarinDemoApp\SmallXamarinDemoApp.csproj", "{663D2B93-BD2F-4979-B13C-E2B1B78AC1C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallXamarinDemoApp.Droid", "Droid\SmallXamarinDemoApp.Droid.csproj", "{92AFA3FD-8DF5-4C5E-AF8D-6E7ED0440DA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{663D2B93-BD2F-4979-B13C-E2B1B78AC1C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{663D2B93-BD2F-4979-B13C-E2B1B78AC1C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{663D2B93-BD2F-4979-B13C-E2B1B78AC1C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{663D2B93-BD2F-4979-B13C-E2B1B78AC1C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92AFA3FD-8DF5-4C5E-AF8D-6E7ED0440DA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92AFA3FD-8DF5-4C5E-AF8D-6E7ED0440DA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92AFA3FD-8DF5-4C5E-AF8D-6E7ED0440DA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92AFA3FD-8DF5-4C5E-AF8D-6E7ED0440DA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
